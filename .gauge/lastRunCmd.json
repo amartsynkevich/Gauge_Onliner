@@ -1,0 +1,10 @@
+{
+	"Command": [
+		"C:\\Program Files\\Gauge\\bin\\gauge.exe",
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console",
+		"C:/Users/HP/IdeaProjects/Gauge_Onliner/specs/example.spec:4"
+	]
+}

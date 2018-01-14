@@ -1,0 +1,120 @@
+22:14:14.021 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+22:14:16.452 Checking updates...
+22:14:32.738 [ValidationError] C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec:6 Step implementation not found => 'Open page and find login button'
+22:14:32.738 [ValidationError] C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec:7 Step implementation not found => 'Enter login and password'
+22:14:32.738 [ValidationError] C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec:8 Step implementation not found => 'Choose phone'
+22:14:32.738 [ValidationError] C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec:9 Step implementation not found => 'Open phone offers'
+22:14:32.739 [ValidationError] C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec:10 Step implementation not found => 'Put phone in basket'
+22:14:32.741 [ValidationError] C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec:11 Step implementation not found => 'Open basket'
+22:14:32.741 [ValidationError] C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec:12 Step implementation not found => 'Check phone in basket'
+22:14:35.758 Plugin [Html Report] with pid [11016] has exited
+22:14:35.960 Specifications:	0 executed	0 passed	0 failed	1 skipped
+22:14:35.960 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+22:14:35.960 
+Total time taken: 370ms
+22:38:51.022 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+22:38:52.738 Checking updates...
+22:39:16.203 Plugin [Html Report] with pid [2884] has exited
+22:39:16.909 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:39:16.909 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:39:16.909 
+Total time taken: 5.582s
+22:42:05.713 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+22:42:07.307 Checking updates...
+22:42:30.876 Plugin [Html Report] with pid [10776] has exited
+22:42:31.584 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:42:31.584 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:42:31.584 
+Total time taken: 5.11s
+22:45:24.211 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+22:45:25.673 Checking updates...
+22:46:13.836 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+22:46:15.377 Checking updates...
+22:46:39.738 Plugin [Html Report] with pid [4428] has exited
+22:46:40.484 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:46:40.484 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:46:40.484 
+Total time taken: 5.18s
+22:51:02.896 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+22:51:04.557 Checking updates...
+22:51:41.352 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+22:51:42.649 Checking updates...
+22:52:14.591 Plugin [Html Report] with pid [9428] has exited
+22:52:15.300 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:52:15.300 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:52:15.300 
+Total time taken: 11.51s
+23:00:29.037 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+23:00:31.026 Checking updates...
+23:01:00.534 Runner connection error: Timed out connecting to [::]:55617
+23:01:00.534 Error while killing runner: invalid argument
+23:01:00.534 Failed to start gauge API: Timed out connecting to [::]:55617
+23:02:52.658 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+23:02:54.890 Checking updates...
+23:03:27.863 [ValidationError] C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec:4 Request timed out for Message with ID => 2 and Type => StepValidateRequest => 'URL'
+23:08:43.042 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+23:08:44.683 Checking updates...
+23:09:57.126 Plugin [Html Report] with pid [9792] has exited
+23:09:57.890 Specifications:	0 executed	0 passed	0 failed	0 skipped
+23:09:57.890 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+23:09:57.890 
+Total time taken: 53.858s
+23:26:17.651 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+23:26:19.679 Checking updates...
+23:26:46.436 Plugin [Html Report] with pid [3968] has exited
+23:26:46.750 Specifications:	0 executed	0 passed	0 failed	1 skipped
+23:26:46.750 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+23:26:46.751 
+Total time taken: 702ms
+23:29:55.985 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+23:29:57.907 Checking updates...
+23:30:21.323 Plugin [Html Report] with pid [9380] has exited
+23:30:21.540 Specifications:	0 executed	0 passed	0 failed	1 skipped
+23:30:21.541 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+23:30:21.541 
+Total time taken: 671ms
+23:31:02.928 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+23:31:05.108 Checking updates...
+23:31:33.186 Plugin [Html Report] with pid [8204] has exited
+23:31:33.922 Specifications:	1 executed	0 passed	1 failed	0 skipped
+23:31:33.923 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+23:31:33.923 
+Total time taken: 5.918s
+23:38:33.638 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+23:38:35.850 Checking updates...
+23:39:09.536 Plugin [Html Report] with pid [8568] has exited
+23:39:10.431 Specifications:	1 executed	0 passed	1 failed	0 skipped
+23:39:10.431 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+23:39:10.431 
+Total time taken: 7.741s
+23:52:57.239 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+23:52:57.641 Gauge daemon initialized and listening on port: 56118
+23:58:18.208 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+23:58:20.481 Checking updates...
+00:00:49.696 Plugin [Html Report] with pid [8532] has exited
+00:00:50.551 Specifications:	1 executed	0 passed	1 failed	0 skipped
+00:00:50.551 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+00:00:50.551 
+Total time taken: 2m5.967s
+00:06:36.917 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+00:06:39.448 Checking updates...
+00:10:05.423 Plugin [Html Report] with pid [328] has exited
+00:10:06.036 Specifications:	1 executed	1 passed	0 failed	0 skipped
+00:10:06.036 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+00:10:06.036 
+Total time taken: 3m4.39s
+00:13:41.326 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+00:13:42.635 Checking updates...
+00:13:42.785 No specifications found in C:/Users/HP/IdeaProjects/Gauge_Onliner/specs/example.spec:4.
+00:13:46.847 Killing runner with PID:8560 forcefully
+00:14:10.102 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+00:14:11.197 Checking updates...
+00:14:11.535 No specifications found in C:/Users/HP/IdeaProjects/Gauge_Onliner/specs/example.spec:4.
+00:14:15.538 Killing runner with PID:7228 forcefully
+00:14:45.015 Gauge Install ID: 89d6057e-538d-451e-a2c2-aee16c98e54e
+00:14:46.162 Checking updates...
+00:16:26.048 Plugin [Html Report] with pid [6064] has exited
+00:16:26.550 Specifications:	1 executed	1 passed	0 failed	0 skipped
+00:16:26.550 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+00:16:26.550 
+Total time taken: 1m30.4s

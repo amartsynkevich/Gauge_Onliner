@@ -1,0 +1,258 @@
+22:39:09.637 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+22:39:09.641 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+22:39:09.673 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+22:39:09.673 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+22:39:09.674 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+22:39:09.675 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+22:39:09.676 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+22:39:09.676 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+22:39:09.677 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+22:39:09.678 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+22:39:09.679 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+22:39:09.679 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+22:39:09.680 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+22:39:09.680 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+22:42:25.061 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+22:42:25.062 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+22:42:25.093 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+22:42:25.094 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+22:42:25.095 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+22:42:25.095 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+22:42:25.096 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+22:42:25.096 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+22:42:25.097 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+22:42:25.098 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+22:42:25.099 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+22:42:25.099 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+22:42:25.100 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+22:42:25.101 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+22:45:47.843 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+22:45:47.846 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+22:45:47.883 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+22:45:47.884 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+22:45:47.885 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+22:45:47.891 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+22:45:47.892 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+22:45:47.892 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+22:45:47.893 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+22:45:47.894 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+22:45:47.895 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+22:45:47.895 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+22:45:47.897 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+22:45:47.897 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+22:46:33.575 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+22:46:33.591 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+22:46:33.625 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+22:46:33.626 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+22:46:33.627 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+22:46:33.628 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+22:46:33.629 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+22:46:33.629 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+22:46:33.635 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+22:46:33.636 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+22:46:33.638 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+22:46:33.638 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+22:46:33.639 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+22:46:33.639 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+22:52:02.199 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+22:52:02.201 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+22:52:02.245 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+22:52:02.245 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+22:52:02.246 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+22:52:02.247 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+22:52:02.248 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+22:52:02.249 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+22:52:02.250 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+22:52:02.250 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+22:52:02.252 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+22:52:02.252 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+22:52:02.258 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+22:52:02.258 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+23:03:28.816 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+23:03:28.821 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+23:03:28.934 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"URL" > 
+23:03:28.934 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"URL" parameterizedStepValue:"URL" > > 
+23:03:28.936 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+23:03:28.937 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+23:03:28.939 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+23:03:28.940 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+23:03:28.993 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+23:03:28.993 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+23:03:28.996 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+23:03:28.997 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+23:03:29.000 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+23:03:29.000 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+23:03:29.008 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+23:03:29.008 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+23:09:02.578 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+23:09:02.580 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+23:09:02.627 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"URL" > 
+23:09:02.627 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"URL" parameterizedStepValue:"URL" > > 
+23:09:02.628 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+23:09:02.628 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+23:09:02.629 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+23:09:02.629 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+23:09:02.630 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+23:09:02.630 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+23:09:02.631 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+23:09:02.632 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+23:09:02.633 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+23:09:02.633 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+23:09:02.634 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+23:09:02.634 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+23:26:44.925 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+23:26:44.927 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+23:26:44.981 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"URL" > 
+23:26:44.981 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"URL" parameterizedStepValue:"URL" > > 
+23:26:44.982 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+23:26:44.982 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+23:26:44.983 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+23:26:44.984 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+23:26:44.985 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+23:26:44.985 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+23:26:44.987 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+23:26:44.987 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+23:26:44.989 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+23:26:44.989 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+23:26:44.990 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+23:26:44.991 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+23:30:19.807 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+23:30:19.808 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+23:30:19.875 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"URL" > 
+23:30:19.876 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"URL" parameterizedStepValue:"URL" > > 
+23:30:19.877 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+23:30:19.883 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+23:30:19.889 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+23:30:19.889 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+23:30:19.891 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+23:30:19.891 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+23:30:19.892 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+23:30:19.893 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+23:30:19.894 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+23:30:19.894 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+23:30:19.895 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+23:30:19.895 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+23:30:19.897 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Init" > 
+23:30:19.901 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Init" parameterizedStepValue:"Init" > > 
+23:31:26.129 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+23:31:26.130 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+23:31:26.218 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"URL" > 
+23:31:26.218 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"URL" parameterizedStepValue:"URL" > > 
+23:31:26.219 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+23:31:26.219 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+23:31:26.221 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+23:31:26.223 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+23:31:26.224 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+23:31:26.224 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+23:31:26.235 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+23:31:26.235 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+23:31:26.241 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+23:31:26.241 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+23:31:26.243 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+23:31:26.243 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+23:31:26.245 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Init" > 
+23:31:26.245 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Init" parameterizedStepValue:"Init" > > 
+23:39:00.317 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+23:39:00.319 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+23:39:00.356 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"URL" > 
+23:39:00.356 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"URL" parameterizedStepValue:"URL" > > 
+23:39:00.358 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+23:39:00.359 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+23:39:00.360 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+23:39:00.361 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+23:39:00.362 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+23:39:00.363 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+23:39:00.364 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+23:39:00.365 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+23:39:00.366 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+23:39:00.368 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+23:39:00.377 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+23:39:00.378 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+23:39:00.380 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Init" > 
+23:39:00.380 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Init" parameterizedStepValue:"Init" > > 
+23:52:57.631 Watching directory: C:\Users\HP\IdeaProjects\Gauge_Onliner\specs
+23:52:57.637 Found 1 files
+23:52:57.638 Initializing concepts cache with 0 concepts
+23:52:57.641 Initializing specs cache with 1 specs
+23:52:57.641 Adding specs from C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec
+23:52:57.641 Initializing steps cache with 1 steps
+23:58:42.734 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+23:58:42.780 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+23:58:42.809 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"URL" > 
+23:58:42.810 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"URL" parameterizedStepValue:"URL" > > 
+23:58:42.811 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+23:58:42.812 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+23:58:42.813 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+23:58:42.814 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+23:58:42.815 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+23:58:42.815 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+23:58:42.838 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+23:58:42.839 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+23:58:42.843 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+23:58:42.843 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+23:58:42.845 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+23:58:42.848 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+23:58:42.850 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Init" > 
+23:58:42.850 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Init" parameterizedStepValue:"Init" > > 
+00:01:48.944 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"URL" > 
+00:01:48.945 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"URL" parameterizedStepValue:"URL" > > 
+00:01:49.302 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+00:01:49.302 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+00:01:50.032 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+00:01:50.032 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+00:01:56.072 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Init" > 
+00:01:56.072 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Init" parameterizedStepValue:"Init" > > 
+00:01:56.947 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+00:01:56.947 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+00:01:57.092 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+00:01:57.092 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+00:01:57.239 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+00:01:57.240 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+00:01:57.373 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+00:01:57.373 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+00:01:57.455 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+00:01:57.456 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+00:06:23.325 Spec file removed: C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec
+00:06:23.364 Spec file added / modified: C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec
+00:07:00.121 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+00:07:00.151 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+00:07:00.186 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"URL" > 
+00:07:00.187 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"URL" parameterizedStepValue:"URL" > > 
+00:07:00.188 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+00:07:00.188 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+00:07:00.189 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+00:07:00.190 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+00:07:00.191 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+00:07:00.192 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+00:07:00.193 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+00:07:00.193 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+00:07:00.195 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+00:07:00.195 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+00:07:00.197 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+00:07:00.198 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
+00:12:13.089 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open URL" > 
+00:12:13.089 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open URL" parameterizedStepValue:"Open URL" > > 
+00:12:13.090 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open URL" > 
+00:12:13.090 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open URL" parameterizedStepValue:"Open URL" > > 
+00:13:04.125 Spec file removed: C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec
+00:13:04.126 Spec file added / modified: C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\TestCase.spec
+00:13:31.539 Spec file removed: C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\TestCase.spec
+00:13:31.554 Spec file added / modified: C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\TestCase.spec
+00:14:40.254 Spec file removed: C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\TestCase.spec
+00:14:40.258 Spec file added / modified: C:\Users\HP\IdeaProjects\Gauge_Onliner\specs\example.spec
+00:14:55.272 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter login and password" > 
+00:14:55.287 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter login and password" parameterizedStepValue:"Enter login and password" > > 
+00:14:55.309 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open URL" > 
+00:14:55.310 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open URL" parameterizedStepValue:"Open URL" > > 
+00:14:55.310 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open phone offers" > 
+00:14:55.311 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open phone offers" parameterizedStepValue:"Open phone offers" > > 
+00:14:55.311 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Put phone in basket" > 
+00:14:55.312 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Put phone in basket" parameterizedStepValue:"Put phone in basket" > > 
+00:14:55.313 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open page and find login button" > 
+00:14:55.313 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open page and find login button" parameterizedStepValue:"Open page and find login button" > > 
+00:14:55.314 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check phone in basket" > 
+00:14:55.314 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check phone in basket" parameterizedStepValue:"Check phone in basket" > > 
+00:14:55.315 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose phone" > 
+00:14:55.315 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose phone" parameterizedStepValue:"Choose phone" > > 
+00:14:55.316 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open basket" > 
+00:14:55.316 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open basket" parameterizedStepValue:"Open basket" > > 
